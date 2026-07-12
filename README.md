@@ -40,6 +40,7 @@ I break things so they can be fixed better. Passionate about offensive security,
 - Active Directory exploitation
 - VLAN hopping & network segmentation bypass
 - Firewall & IDS/IPS evasion
+- Gadgets making, IOT hacking
 
 #### 📡 **RF Signal Analysis & SDR**
 - Software Defined Radio (SDR) with HackRF, RTL-SDR
@@ -51,7 +52,6 @@ I break things so they can be fixed better. Passionate about offensive security,
 #### 🔑 **Password Cracking**
 - Hashcat & John the Ripper optimization
 - GPU cracking (CUDA, OpenCL)
-- Rainbow tables & distributed cracking
 - Rainbow tables & distributed cracking
 - Rule-based attack optimization
 - Custom wordlist generation (Kwprocessor, CeWL)

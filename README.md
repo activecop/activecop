@@ -1,8 +1,8 @@
 ### 👨‍💻 About Me
 
-🔐 **Cybersecurity Professional | Penetration Tester**
+🔐 **Cybersecurity Professional | Network Pentester | RF/SDR Hacker | Password Cracking Specialist**
 
-I break things so they can be fixed better. Passionate about offensive security, Linux kernel exploitation, and automating the boring stuff.
+I break things so they can be fixed better. Passionate about offensive security, radio signal analysis, and password cracking optimization.
 
 ---
 ## 🔥 Current Focus
@@ -21,15 +21,6 @@ Because even pentesters need to edit screenshots of exploits.
 > One-click installation to transform GIMP into Photoshop-like interface on Zorin OS
 
 🔗 **[View Project →](https://github.com/activecop/PhotoGIMP)**
-
----
-
-### 🛠️ Tech Stack
-### 👨‍💻 About Me
-
-🔐 **Cybersecurity Professional | Network Pentester | RF/SDR Hacker | Password Cracking Specialist**
-
-I break things so they can be fixed better. Passionate about offensive security, radio signal analysis, and password cracking optimization.
 
 ---
 
@@ -60,16 +51,7 @@ I break things so they can be fixed better. Passionate about offensive security,
 - Bash/Python automation for pentesting
 - Custom exploit development
 - OSINT & reconnaissance automation
-
----
-
-### 🎨 Side Project: PhotoGIMP Installer
-> "Even pentesters need to edit screenshots of their exploits."
-
-🔗 **[View Project →](https://github.com/YOUR_USERNAME/PhotoGIMP-Installer)**
-
----
-
+  
 ### 🛠️ Tech Stack
 
 #### 🔧 Offensive Security
